@@ -1,0 +1,43 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-93e968e729fa3c90b6f7.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/posts/stand-on-giant-shoulders/
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/tag/learning
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/tag/open-source
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/category/inspiration
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-584f5096d6c733a2440f.js>; rel=preload; as=script
+  Link: </0-5495c36a5388a40a52e9.js>; rel=preload; as=script
